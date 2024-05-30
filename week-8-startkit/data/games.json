@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+
+"title": "Crystal Keeper",
+"description":
+"Управляй боевым дроном, чтобы лебой ценой защитить кристалл от враждебных касно-слезней.",
+
+
+
+"image" : "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
+
+"Link": "https://code.s3.yandex.net/teens/pindle-games/cristal-keeper/game/index.html"
+},
+    {
+
+"id": 2,
+" title": "Dangeons'n'Caves. Prologue" ,
+
+"description":
+
+"Бельменный герой исследует пещеры и подземелья, чтобы найти больше информация о себе.",
+
+"image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
+
+"Links" : "https://code.s3.yandex.net/teens/pindle-games/dangeons-o-caves-prologue/game/index.html"
+    }
+]
